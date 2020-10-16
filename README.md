@@ -2,7 +2,7 @@
 ## Discribe how to build and start the system
   **1. Build image using [docker build -t ‘testflask’] .**
   ![image](https://github.com/kafkaontheshore5997/ECE444-F2020-Lab3/blob/lab4_Microservice_Experiment/Week4Imgs/Lab4DockerBuild.PNG)
-  **2. Run the container using docker run -d -p 5000:5000 testflask**
+  **2. Run the container using docker run -d -p 5000:5000 testflask** <br>
   **3. If I run [docker ps -a] :**
   ![image](https://github.com/kafkaontheshore5997/ECE444-F2020-Lab3/blob/lab4_Microservice_Experiment/Week4Imgs/Lab4DockerPs-a.PNG)
   **4. Go to localhost:5000 on the browser:**
